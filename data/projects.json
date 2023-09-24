@@ -1,0 +1,28 @@
+[
+    {
+        "name": "First Project",
+        "description": "This is the description of the first project.",
+        "year": 2020,
+        "img": "../img/facebook.png",
+        "repository": "http://github.com/",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+
+    {
+        "name": "Second Project",
+        "description": "This is the description of the second project.",
+        "year": 2020,
+        "img": "../img/facebook.png",
+        "repository": "http://github.com/",
+        "technologies": ["HTML", "CSS", "JavaScript", "React"]
+    },
+
+    {
+        "name": "Third Project",
+        "description": "This is the description of the third project.",
+        "year": 2020,
+        "img": "../img/facebook.png",
+        "repository": "http://github.com/",
+        "technologies": ["HTML", "CSS", "JavaScript", "Django"]
+    }
+]

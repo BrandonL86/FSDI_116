@@ -8,7 +8,8 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800&family=Orbitron:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/base.css">
     <link rel="stylesheet" href="/css/header.css">
-    <link rel="stylesheet" href="/css/about.css">
+    <link rel="stylesheet" href="/css/sections.css">
+    <link rel="stylesheet" href="/css/responsive.css">
 
     <title>My Name | Frontend Developer</title>
 </head>
@@ -81,9 +82,86 @@
                 </div>
             </div>
         </div>
+    </section>
 
+    <section class="projects-section center">
+        <h2>Projects</h2>
+
+        <div id="projects-list">
+
+            <div class="project-card">
+                <a href="https://github.com/" target="blank">
+                    <img src="/img/facebook.png">
+
+                    <p>Project name</p>
+                    <p>Description of the first project.</p>
+                    <p>YYYY</p>
+
+                    <div class="technologies center">
+                        <label>Technology</label>
+                        <label>Technology</label>
+                        <label>Technology</label>
+                        <label>Technology</label>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="experience-section center">
+        <h2>Experience/Education</h2>
+
+        <div id="experiences-list">
+
+
+        </div>
+    </section>
+
+    <section class="contact-section center">
+    <h2>Contact Me</h2>
+
+    <form id="emailForm">
+
+        <input type="text" id="name" placeholder="Name" required><br>
+        <input type="email" id="email" placeholder="Email" required><br>
+        <input type="text" id="subject" placeholder="Subject"><br>
+        <textarea id="message" rows="4" placeholder="Message" required></textarea><br>
+
+    <div class="form-buttons">
+        <button class="primary-button" type="submit">Send Email</button>
+        <button class="secondary-button" type="button">Reset</button> 
+    </div>
+
+    
+</form>
 
     </section>
+
+
+    <footer class="center">
+        <h2>My fancy name here</h2>
+
+    <div class= "logo center">
+        <a href="" alt="">
+        <img src="/img/logo. jpg" alt="">
+        </a>
+        </div>
+
+<nav class="center">
+    <a href="#">About me</a>
+    <a href="#">Projects</a>
+    <a href="#">Experience</a>
+    <a href="#">Contacts</a>
+</nav>
+
+</footer>
+<script src="/js/main.js"></script>
+<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script src="/js/email.js"></script>
+
+    </section>
+
 </body>
 
 </html>
