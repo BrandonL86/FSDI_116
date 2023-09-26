@@ -1,27 +1,27 @@
 [
     {
-        "name": "First Project",
+        "name": "Pet Salon Website",
         "description": "This is the description of the first project.",
-        "year": 2020,
-        "img": "../img/facebook.png",
-        "repository": "http://github.com/",
+        "year": 2023,
+        "img": "../img/pet_salon.jpg",
+        "repository": "https://github.com/BrandonL86/FSDI-104-Ch38-PetSalon.git",
         "technologies": ["HTML", "CSS", "JavaScript"]
     },
 
     {
-        "name": "Second Project",
+        "name": "Organika Online Plant Store",
         "description": "This is the description of the second project.",
-        "year": 2020,
-        "img": "../img/facebook.png",
-        "repository": "http://github.com/",
-        "technologies": ["HTML", "CSS", "JavaScript", "React"]
+        "year": 2023,
+        "img": "../img/organika.png",
+        "repository": "https://github.com/BrandonL86/FSDI_110_OnlineStore.git",
+        "technologies": ["HTML", "CSS", "JavaScript", "React", "Python", "Mongo DB"]
     },
 
     {
-        "name": "Third Project",
+        "name": "Task Manager",
         "description": "This is the description of the third project.",
-        "year": 2020,
-        "img": "../img/facebook.png",
+        "year": 2023,
+        "img": "../img/task_manager.png",
         "repository": "http://github.com/",
         "technologies": ["HTML", "CSS", "JavaScript", "Django"]
     }

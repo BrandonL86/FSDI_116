@@ -1,8 +1,8 @@
 :root{
     --background-color: #011C32;
     --header-color: #01223D;
-    --accent-color: #05D939;
-    --accent-color-shade: #025834;
+    --accent-color: #01ccf5;
+    --accent-color-shade: #028b75;
     --neutral-color: #e0e0e0;
 
     --mono-font: 'DM Mono', monospace;
@@ -18,7 +18,7 @@
 
 html {
     font-size: 14px;
-    background-color: var(--background-color);
+    background-color: var(--neutral-color);
 }
 
 * {
@@ -28,18 +28,18 @@ html {
 }
 
 h1 {
-    color: var(--neutral-color);
+    color: var(--background-color);
     font-size: 2rem;
     text-transform: uppercase;
 }
 
 h2 {
-    color: var(--accent-color);
-    font-size: 1.1rem;
+    color: var(--accent-color-shade);
+    font-size: 1.5rem;
 }
 
 
 p {
-    color: var(--neutral-color);
+    color: var(--background-color);
     font-size: 1.1rem;
 }

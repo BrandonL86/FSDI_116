@@ -1,0 +1,25 @@
+[
+    {
+        "entity": "Nossi College of Art",
+        "title": "Bachelors of Graphic Arts",
+        "description": "Successfully completed an intensive graphic design program, mastering key design principles and industry-standard software tools. Proficient in color theory, typography, and visual communication through practical projects. Skilled in problem-solving through real-world design challenges. Equipped with a strong foundation to apply creative expertise in the field. Ready to contribute effectively to graphic design projects.",
+        "period": "August 2011 - May 2016",
+        "technologiesSkills": ["Photoshop", "Or", "Skill"]
+    },
+    {
+        "entity": "Country Music Hall of Fame",
+        "title": "Graphic Designer",
+        "description": "Developed a strong foundation in design principles and proficiently mastered industry-standard software tools. Acquired hands-on experience in color theory, typography, and visual communication through a series of portfolio-enhancing projects. Gained valuable problem-solving skills by tackling real-world design challenges. Ready to apply newfound knowledge and passion for design to contribute effectively in the field.",
+        "period": "Sept. 2015 - Oct. 2016",
+        "technologiesSkills": ["Technology", "Or", "Skill"]
+    },
+    {
+        "entity": "San Diego Global Knowledge University",
+        "title": "FullStack Developer",
+        "description": "Embark on a comprehensive journey to become a versatile Fullstack Developer. Learn front-end technologies like HTML, CSS, and JavaScript for dynamic web interfaces. Master server-side programming with languages such as Python or Node.js, and explore database management. Acquire hands-on experience in building complete web applications from scratch. Gain the skills to excel in both front-end and back-end development roles.",
+        "period": "Apr. 2023 - Nov. 2023",
+        "technologiesSkills": ["Technology", "Or", "Skill"]
+    }
+
+
+]
